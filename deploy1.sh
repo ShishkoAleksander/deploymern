@@ -16,4 +16,3 @@ sudo install minikube /usr/local/bin/
 sudo usermod -aG docker $USER
 newgrp docker
 exit
-echo "Please, run deploy2.sh script"
